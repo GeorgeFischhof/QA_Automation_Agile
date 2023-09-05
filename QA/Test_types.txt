@@ -1,0 +1,89 @@
+SOFTWARE TESTING TYPES
+
+Testing is the most important component of software development and delivery. There are more than 50 different types of testing techniques used in enterprise softwares. Some of those testing techniques are compulsory but others are nice to have. These testing techniques depend upon the nature of the software product, the type of software architecture used to build that product (distributed, cloud based, microservices, monolith..) and organizational or business constraints and needs.
+
+Testing can be time consuming initially but eventually it helps improve software quality and reduces the time new features are pushed to market. Testing is highly important component features of DevOps pipeline which can make softwares more valuable and scalable.
+
+TYPES OF SOFTWARES
+
+1. Distributed
+2. Cloud Based
+3. BigData
+4. Functions as a Service
+5. Microservices
+6. Multi-Layered
+7. Monolith
+8. Component Based
+9. Cloud Native
+10. Websites
+11. Mobile Apps
+12. Enterprise Systems
+
+DIFFERENT TYPES OF TESTING
+
+PRE-PRODUCTION : Tests that happen in lower environments.
+
+1. Unit Tests
+2. Functional Tests
+3. Component Tests
+4. Property based Tests
+5. Coverage Tests
+6. Benchmark Tests
+7. Regression Tests
+8. Acceptance Tests
+9. Contract Tests
+10. Smoke Tests
+11. Lint Tests
+12. Usability Tests
+13. UI/UX Tests
+
+DEPLOY : Tests done after a new deployment to a specific environment
+
+1. Integration Tests
+2. Load Tests
+3. Shadowing Tests
+
+RELEASE : Tests done after a new release to a specific environment
+
+1. Traffic Swapping
+2. Monitoring
+3. Feature Flagging
+
+POST RELEASE : Tests done after a new release to a specific environment has been done
+
+1. A/B Tests
+2. Logs/Events
+3. Distributed Tracing
+4. Dynamic Exploration
+5. Real Time Monitoring
+6. User Acceptance Tests
+7. Profiling
+8. Metrics
+9. Chaos Testing
+
+NON FUNCTIONAL TESTS
+
+1. Security
+2. Scalability
+3. Maintainability
+4. Interoperability
+5. Readability
+6. Flexibility
+7. Integrity
+8. Availability
+9. Performance
+10. Usability
+11. Suitability
+12. Resiliency
+13. Recoverability
+
+Different teams have their own test environments such as SIT (system in test), CAT (customer acceptance testing), BETA, STAGING, QA or NON-PROD. Different environments can have different types of testing techniques and data used for clearing the software.
+
+FINAL NOTES
+
+Different types of testing environments, testing techniques and procedures are used in big distributed, enterprise level softwares. Testing is a huge ocean of knowledge due to so many techniques, types, processes involved and more than 600 different tools & technologies are used across wide spectrum of software ecosystems
+
+
+plus:
+https://kwahome.medium.com/microservice-testing-a-new-dawn-aa614d31d7e9
+
