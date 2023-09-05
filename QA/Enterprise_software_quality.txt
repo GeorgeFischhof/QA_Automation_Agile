@@ -1,0 +1,90 @@
+https://www.linkedin.com/feed/update/urn:li:activity:6892167380118642688/
+
+ENTERPRISE SOFTWARE QUALITY
+
+Its a highly important feature for any software or a product and is based upon dozens of non functional requirements and metrics. Software quality comes in two types : external and internal. Without a good quality, software gets rusty and creates issues in team's process as well as the software product itself.
+
+In USA itself poor quality softwares, applications and products have wasted 2.8 trillion USD in 2020. Hence software quality is highly important and effective which makes customers happy, gets high returns on investment on existing digital product.
+
+HOW TO ACHIEVE SOFTWARE QUALITY
+
+1. Static Code Analysis
+2. Code Reviews
+3. Merge Checks
+4. Software Design Considerations
+5. Software Quality Models
+6. Performance & Stress Tests
+7. Load Tests
+8. Observability & Monitoring
+9. User Experience Performance
+10. Choas Tests
+11. 3rd Party Tests
+12. Enterprise & Regression Tests
+13. System Tests
+14. Vulnerability Checks
+15. Dependency Checks
+16. Dynamic Code Analysis
+17. Functional Tests
+18. Unit Tests
+19. Non-Functional Requirements
+20. Documentation Reviews
+21. Design Reviews
+22. Architecture Reviews
+23. Product Errors Ratio
+24. Application Complexity Review
+25. Technical Skills
+26. Team Turnover
+27. Quality Systems & Processes
+28. Automation Tools
+29. Collaborative Programming
+30. Rapid ITSM Process
+31. Feature Toggles
+32. Requirements Reviews
+33. User Story (Descriptive)
+34. Detailed & Written Communication
+
+FEATURES THAT EFFECT QUALITY
+
+1. Complexity of Code
+2. Algorithms & Logic
+3. Entities & Relationships
+4. DevOps tools & technologies
+5. Design & Architecture
+6. Resource Management
+7. Cohesion & Coupling Level
+8. Security Practices
+9. Programming Practices
+10. Software Modularity
+11. Design Patterns
+12. Architectural Styles
+13. Communication Protocols
+14. Technical Debt
+15. Documentation Level
+16. Integrations of Modules
+17. Tools & Technologies Used
+18. Authentication & Authorizations
+19. Transaction Complexity Level
+20. Technical & Functional Volume
+21. Coding Practices
+22. DevOps Pipeline & Strategy
+23. Configuration Management
+24. Data Integrity
+25. Data Consistency
+26. Scalability
+27. Software Platform
+28. Enterprise Infrastructure
+29. Build, Test & System's Process
+30. Source Code Readability
+31. No. of Dependencies
+32. SOLID principle
+33. No. of Bugs & Errors
+34. Software Modules
+35. Product Backlog
+36. Documents & Diagrams
+37. Business Features & Workflows
+38. DevOps Pipeline
+39. Technical Standards & Processes
+
+FINAL NOTES
+
+There are dozens of metrics and techniques to measure and analyze the quality of a software using different inputs, parameters and processes.

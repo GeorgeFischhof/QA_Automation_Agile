@@ -1,0 +1,126 @@
+You may get your first Manual testing practice project on this link
+
+http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/
+
+Then you can practice on some demo sites, like
+
+http://phptravels.com/demo/
+http://thedemosite.co.uk/
+http://newtours.demoaut.com/
+http://www.way2automation.com/demo.html
+http://automationpractice.com/index.php
+http://demoqa.com/
+
+
+Ready for test buggy applications
+
+https://asta.pgs-soft.com
+Automated Software Testing Arena, also good for manual testing
+
+http://mrbuggy.eu
+MrBuggy set of great buggy apps to test on
+
+
+
+Apps that you can test locally.
+
+https://instantwp.com
+Fast wordpress setup
+
+https://github.com/tourdedave/the-internet
+Herokuapp. The internet. GitHub project
+
+
+
+
+Ready for test buggy applications
+
+https://asta.pgs-soft.com
+Automated Software Testing Arena, also good for manual testing
+
+http://mrbuggy.eu
+MrBuggy set of great buggy apps to test on
+
+Apps that you can test locally.
+
+https://instantwp.com
+Fast wordpress setup
+
+https://github.com/tourdedave/the-internet
+Herokuapp. The internet. GitHub project
+
+Interactive projects that are free
+
+http://www.guru99.com/live-testing-project.html
+http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/
+
+
+
+For automation purpose:
+
+Herokuapp. The internet.
+http://the-internet.herokuapp.com
+
+https://asta.pgs-soft.com
+Automated Software Testing Arena
+
+http://timvroom.com/selenium/playground/
+Playground with various tasks
+
+http://automationpractice.com
+Virtual e-shop
+
+http://demoqa.com
+Various content
+
+http://newtours.demoaut.com
+Tourism webpage
+
+http://bdonline.sqe.com
+B&D is a fictitious online brokerage firm
+
+http://adam.goucher.ca/parkcalc
+This "application" has some serious flaws, and has been the subject of lots of exploratory testing.
+
+http://executeautomation.com/demosite/index.html
+User forms
+
+http://Enterprise.Demo.Orangehrmlive.Com/
+Demo HR management site
+
+http://www.way2automation.com/demo.html
+Various elements
+
+
+
+
+
+
+--------------------
+
+
+
+https://www.tutorialspoint.com/how-to-improve-testing-skills
+
+Software Testing Tutorial For Beginners | Manual & Automation Testing | Selenium Training | Edureka
+https://www.youtube.com/watch?v=T3q6QcCQZQg
+
+Practice your software testing and automating with these applications
+https://www.youtube.com/watch?v=mpwD2-c0Rok
+
+https://www.softwaretestinghelp.com/software-testing-exercises-to-test-your-skills/
+
+https://www.guru99.com/software-testing.html
+
+https://www.globalapptesting.com/blog/software-testing
+
+https://abstracta.us/blog/software-testing/best-demo-websites-for-practicing-different-types-of-software-tests/
+!!! contains many links to pages where automation stuff can be tested
+
+
+https://www.softwaretestinghelp.com/practical-software-testing-tips-to-test-any-application/
+
+
+https://softwaretestingfundamentals.com/software-testing-exercises/
+Önállóan elvégezhető fejlesztők
+
