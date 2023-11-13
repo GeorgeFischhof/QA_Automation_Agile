@@ -222,6 +222,18 @@ Beállítás: A háttér legyen piros
   - A "Check if" kezdetű lépések könnyen szerkeszthetők
 - Szintén nem trükk, inkább munkamenet: Ha egy (beszámozott) Test Suite-et már "kiadtunk" és annak elemeire már történtek hivatkozások (levelezésben, vagy egyéb dokumentálásban), és törölni kell belőle, a maradékot NE számozzuk át, mert nem fogják megtalálni
 
+## How to create test frameworks - how to avoid hard situations
+(this is what I learned during several years)
+- Test case shoulod know and control everything: no smart low level stuff: no "I will find out things" in low level, because situations can change, and for example if a different server is needed or a different way of working, then everything must be rewritten; example sturcture 
+  - Test case
+    - get config
+    - get machines
+    - set way of working
+    - call low level functions with the above as parameters, or set these to some kind of non-local parameters
+    - low level functions can have some reasonable default parameters for the above, for example login as admin credentials. This way the test cases do not need to pass these stuff again and again, which makes the code smaller and more readable 
+- functions and wrappers must allow passing them / passing through bad data to enable testing the negative cases
+- wrappers should allow pass-through all parameters of the wrapped stuff (*args, **kwargs). For example requests has many parameters, and similarly it passes through them to lower level libraies too. (That is to follow the changing of the need)
+
 
 
 
