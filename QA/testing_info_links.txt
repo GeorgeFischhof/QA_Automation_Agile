@@ -43,3 +43,8 @@ ez egy nagyon jo link gyujtemeny, itt erdemes kezdeni azzal, hogy mindnek elolva
     
 tovabbi linkek itt vannak:
 https://en.wikipedia.org/wiki/Category:Software_testing
+
+Types of testing
+https://www.softwaretestinghelp.com/types-of-software-testing/
+
+
