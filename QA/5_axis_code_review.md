@@ -1,0 +1,5 @@
+- correctness
+- readability
+- rchitecture
+- security
+- performance
