@@ -1,0 +1,25 @@
+# The best QA engineers are paranoid. Professionally, deliberately paranoid.
+
+- Not anxious. Not negative. Not difficult.
+- Paranoid.
+- There's a difference.
+- Anxiety says: "Something will go wrong and I can't handle it." 
+- Professional paranoia says: "Something will go wrong. Let me find it first."
+- Most people treat QA as a verification role. 
+- Did it meet the requirement? ✅ 
+- Does it match the design? ✅  
+- Did the happy path pass? ✅ 
+- Ship it.
+- The paranoid tester asks different questions:
+- ▶️  What happens if the user does something we didn't design for? 
+- ▶️ What if two things break at the same time? 
+- ▶️  What does this look like at 3 am under peak load? 
+- ▶️  Who is the most confused, impatient, unlucky user - and can they survive this flow?
+- That mindset isn't taught in courses. It's not in any certification.
+- It's a way of seeing software as a system that wants to fail - and your job is to find out how before someone else does.
+- I've worked with technically average testers who had this mindset. 
+- They caught things senior engineers missed.
+- Every time.
+- You can teach tools. You can teach frameworks.
+- You cannot teach someone to care about what breaks.
+- Do you test to confirm - or to destroy?
